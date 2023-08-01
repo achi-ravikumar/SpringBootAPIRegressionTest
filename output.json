@@ -1,0 +1,6 @@
+{
+    "timestamp": 1690900790713,
+    "status": 500,
+    "error": "Internal Server Error",
+    "path": "/createRepo"
+}
